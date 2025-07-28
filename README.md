@@ -70,7 +70,6 @@ The graphQL queries are all hardcoded to pull the maximum number of products/var
 is set to 250 by Shopify. I did this to keep things simple. Pagination would have made the queries complicated
 and 250 items is enough for most use cases.
 
-If you require pagination you will have to keep track of the [cursor](https://youtu.be/S37WsC8GzSA "graphql pagination") field and keep querying the data until you fetch all items.
 
 ### Setup Environment variables
 
@@ -137,12 +136,5 @@ You can use free tools online such as https://realfavicongenerator.net/ to quick
 
 You can deploy this using any number of services. Vercel and Netlify are the ones I prefer and very easy to setup and sync with your Github repo.
 
-### Credit
 
-The store was inspired by the awesome [Gatsby Swag Store](https://github.com/gatsbyjs/store.gatsbyjs.org "gatsby store") as well
-as countless other devs much more capable than me who put out their awesome work for free. 
 
-### License
-
-I have open sourced this code under the MIT License in the hope that if this helps people navigate their way around JAMStack eCommerce stores
-as the Gatsby Swag Store did for me when I first started out.
