@@ -4,8 +4,8 @@
 <img src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/demo-store.gif">
 <p align="center">
   <a href="https://doggystickers.vercel.app/">Live Demo</a> •
-  <a href="https://nextails.com/">See more starters</a> •
-  <a href="https://twitter.com/deepwhitman">Follow me on Twitter</a>
+
+
 </p>
 </div>
 
